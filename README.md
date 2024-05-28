@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Tharaa Sukaina</h1>
 <h3 align="center">A passionate web developer specialized in frontend development, interested in Python.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tharaasukaina&label=Profile%20views&color=0e75b6&style=flat" alt="tharaasukaina" /> </p>
+<p align="center"> 
+  <img src="https://cdn-icons-png.flaticon.com/512/1508/1508843.png" alt="custom image" width="450" height="450"/>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tharaasukaina" alt="tharaasukaina" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=tharaasukaina" alt="tharaasukaina" />
+  </a> 
+</p>
 
 - 🔭 I’m currently working on my Graduation Project [GraduationProject](https://github.com/tharaasukaina/GraduationProject)
 
